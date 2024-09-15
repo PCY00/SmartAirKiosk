@@ -38,7 +38,7 @@
 
 ### SmartAirKiosk 구동 영상
 
-[martAirKiosk 구동 영상 보기](https://youtu.be/KF5rC-BnxO0)
+[SmartAirKiosk 구동 영상 보기](https://youtu.be/KF5rC-BnxO0)
 
 <br><br>
 
@@ -79,8 +79,8 @@ APM_v2/
 
 | 장비명                | 사양                                                                                                                                                                                                                                                                                                                                                                     | 수량 | 비고                         |
 |:------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:--------------------------:|
-| Jetson Nano B 01   | Quad-core ARM® Cortex-A57@ 1.43 GHz                                                                                                                                                                                                                                                                                                                                    | 1  |                            |
-| Arduino Mega 2560  | ATmega2560                                                                                                                                                                                                                                                                                                                                                             | 4  | 미세먼지 데이터 3, 환경 데이터 1       |
+| Raspberry Pi 3B+   | Quad-core ARM® Cortex-A53 64-bit SoC @ 1.4GHz                                                                                                                                                                                                                                                                                                                                    | 3  |                            |
+| HC-SR501  | ATmega2560                                                                                                                                                                                                                                                                                                                                                             | 4  | 미세먼지 데이터 3, 환경 데이터 1       |
 | Arduino Uno        | ATmega328P                                                                                                                                                                                                                                                                                                                                                             | 1  |                            |
 | PMS7003            | 광산란 방식 <br> (fan 유무 : 무)                                                                                                                                                                                                                                                                                                                                               | 9  | 미세먼지 센서                    |
 | 환경 센서              | CO, NO2, SO2 each 1 (AllSensing AGSM series)<br> Ozone 1 (sen0321) - I2C communication<br> WindSpeed 1 (sen0170) - Analog communication<br> WindDirection 1 (WS5029) - Analog communication<br> Temperature and Humidity (DHT22) - Digital                                                                                                             |    | UART, I2C, Digital, Analog |
