@@ -43,6 +43,28 @@
 
 ## Directory Structure
 
+```
+SmartAirKiosk/
+├── APP/
+│   ├── APP.jpg
+│   ├── PMS_Alarm.jpg
+│   │
+├── GUI/
+│   ├── gui.py
+│   │
+├── Sensor/
+│   ├── RaspberryPi_3_PMS.py
+│   ├── Temp_relay.cpp
+│   ├── 초음파_PIR.cpp
+│ 
+├── Wiring/
+│   ├── Wiring.jpg
+│   │
+├── modeling/
+│   ├── SmartAir.png
+│   ├── modeling.step
+
+```
 
 <br><br>
 
