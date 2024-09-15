@@ -38,7 +38,7 @@
 
 ### SmartAirKiosk 구동 영상
 
-[martAirKiosk 구동 영상 보기]([https://youtu.be/hN8SpTdIn4Q?feature=shared](https://youtu.be/KF5rC-BnxO0)
+[martAirKiosk 구동 영상 보기](https://youtu.be/hN8SpTdIn4Q?feature=shared)
 
 <br><br>
 
