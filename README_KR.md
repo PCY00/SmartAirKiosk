@@ -45,31 +45,25 @@
 ## 디렉토리 형식
 
 ```
-APM_v2/
-├── Document/
-│   ├── Guide_KR
-│   └── Guide_EN
+SmartAirKiosk/
+├── APP/
+│   ├── APP.jpg
+│   ├── PMS_Alarm.jpg
+│   │
+├── GUI/
+│   ├── gui.py
+│   │
+├── Sensor/
+│   ├── RaspberryPi_3_PMS.py
+│   ├── Temp_relay.cpp
+│   ├── 초음파_PIR.cpp
 │ 
-├── src/
-│   ├── DAQ/
-│   │   └── DAQ.py
+├── Wiring/
+│   ├── Wiring.jpg
 │   │
-│   ├── Mobius_server_mqtt/
-│   │   └── nCube-Thyme-Nodejs.zip
-│   │
-│   ├── Sensor/
-│   │   ├── Environmental_Sensor/
-│   │   │   ├── DFRobot_OzoneSensor.cpp
-│   │   │   ├── DFRobot_OzoneSensor.h
-│   │   │   └── Environmental_Sensor.ino
-│   │   ├── Module_Floor_1/
-│   │   │   └── Module_Floor_1.ino
-│   │   ├── Module_Floor_2/
-│   │   │   └── Module_Floor_2.ino
-│   │   ├── Module_Floor_3/
-│   │   │   └── Module_Floor_3.ino
-│   │   ├── NPM
-│   │   │   └── NPM.ino
+├── modeling/
+│   ├── SmartAir.png
+│   ├── modeling.step
 
 ```
 
