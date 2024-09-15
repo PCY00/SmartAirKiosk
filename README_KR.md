@@ -29,9 +29,9 @@
 ### 모델링 및 설치 사진
 <div align="center">
   
-  | 모델링 | 설치 |
-  |:---:|:---:|
-  | <img src="https://github.com/user-attachments/assets/ba80964b-d8c8-4775-a51b-e386a5ecab33" width="470px" height="350px" alt="모델링"> | <img src="https://github.com/user-attachments/assets/8cf09806-a0ee-473e-bbfc-5edc33816b9d" width="470px" height="350px" alt="설치"> |
+  | 실제 |
+  |:---:|
+  | <img src="https://github.com/user-attachments/assets/314c94d4-e6bc-4acf-934e-5a8bf56400b1" width="350px" height="470px" alt="실제"> |
 </div>
 
 <br><br>
