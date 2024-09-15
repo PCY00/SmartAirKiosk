@@ -96,15 +96,14 @@ APM_v2/
 
   | 센서 배선 | 
   |:---:|
-  | <img src="https://github.com/user-attachments/assets/54dacca4-ecc6-4a91-9701-8f52dfa73992" width="600px" height="550px" alt="센서 배선도"> |
+  | <img src="https://github.com/user-attachments/assets/54dacca4-ecc6-4a91-9701-8f52dfa73992"  alt="센서 배선도"> |
 </div>
 
 <br>
 
 ### 시스템 아키텍처
 
-![시스템 아키텍처](https://github.com/user-attachments/assets/b8e7a94f-df27-4aec-8d90-59fc6ab336ea)
-
+![시스템 아키텍처](https://github.com/user-attachments/assets/4c321007-3b18-4ea9-813b-6ff5827f3be3)
 
 <br><br>
 
