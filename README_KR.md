@@ -36,11 +36,9 @@
 
 <br><br>
 
-### APM_v2 Mqtt(모터) 구동 영상
+### SmartAirKiosk 구동 영상
 
-- 모터는 필요없다고 생각되어 현재 탈거하였음
-
-[APM_v2 Mqtt 구동 영상 보기](https://youtu.be/hN8SpTdIn4Q?feature=shared)
+[martAirKiosk 구동 영상 보기]([https://youtu.be/hN8SpTdIn4Q?feature=shared](https://youtu.be/KF5rC-BnxO0)
 
 <br><br>
 
