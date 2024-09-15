@@ -140,16 +140,3 @@ APM_v2/
 - 내부 미세먼지 농도가 외부보다 높을 경우만 창문을 열으라고 어플로 알림
 
 
-
-
-
-
-<br><br>
-
-## Server (OneM2M)
-
-### Mobius 플랫폼
-- URL: 필요시 제공해주겠음
-- [Mobius 플랫폼 접속 링크](http://114.71.220.59:7575/#!/monitor)
-
-![server](https://github.com/user-attachments/assets/3d25239d-c8fb-4218-8019-f742800bbce3)
